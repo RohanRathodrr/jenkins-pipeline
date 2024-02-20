@@ -8,7 +8,7 @@ stages {
 			{
 				steps{
 				echo "Welcome to Young Minds!"
-				sleep 5
+				sleep 6
 				}
 			}	
 			stage	('Stage-2')
